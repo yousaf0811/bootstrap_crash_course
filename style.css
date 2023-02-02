@@ -8,3 +8,10 @@ body::before{
   width: 50%;
 }
 }
+/* @media(max-width:768){
+  .pd{
+    border: 2px red solid;
+    color: brown;
+    padding: 5px;
+  }
+} */
